@@ -2,6 +2,8 @@
 
 An end-to-end data engineering project that extracts NBA team and player statistics from the official NBA API, transforms them in a local DuckDB warehouse, and presents interactive analytics via a Streamlit dashboard.
 
+Note: The data and views are quite limited as this is just for practice only
+
 ## Architecture
 
 ```
